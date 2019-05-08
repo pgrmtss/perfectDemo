@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "e7027c4c9064d2712b86463fad137483"
+build_time: [1557233634, 691804000]
+inputs:
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPFilter.swift": [1557233596, 651877620]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPHeaders.swift": [1557233596, 652121333]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPMethod.swift": [1557233596, 652300743]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPRequest.swift": [1557233596, 652456650]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPResponse.swift": [1557233596, 652820293]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/MimeReader.swift": [1557233596, 653131245]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/MimeType.swift": [1557233596, 653783095]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/Routing.swift": [1557233596, 654077718]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/StaticFileHandler.swift": [1557233596, 654353851]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/TypedRoutes.swift": [1557233596, 654632726]

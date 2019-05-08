@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "55c550979c08c148cfe6757cd22d5680"
+build_time: [1557233628, 768051000]
+inputs:
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Algorithms.swift": [1557233596, 403939801]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/ByteIO.swift": [1557233596, 404213401]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Extensions.swift": [1557233596, 404553288]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/JWT.swift": [1557233596, 404815458]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Keys.swift": [1557233596, 405009533]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/OpenSSLInternal.swift": [1557233596, 405360984]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/PerfectCrypto.swift": [1557233596, 405626185]

@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "eefcdb31e233b971cd24bce36287e634"
+build_time: [1557332935, 635327000]
+inputs:
+  "/Users/ming/Desktop/PerfectTemplate/Sources/PerfectTemplate/Api/TestApi.swift": !private [1557332925, 155788180]
+  "/Users/ming/Desktop/PerfectTemplate/Sources/PerfectTemplate/BasicRoutes.swift": [1557329249, 278244178]
+  "/Users/ming/Desktop/PerfectTemplate/Sources/PerfectTemplate/Util/DataBaseManager.swift": [1557331568, 802738051]
+  "/Users/ming/Desktop/PerfectTemplate/Sources/PerfectTemplate/Util/Util.swift": [1557329226, 606978688]
+  "/Users/ming/Desktop/PerfectTemplate/Sources/PerfectTemplate/main.swift": [1557331266, 272398323]

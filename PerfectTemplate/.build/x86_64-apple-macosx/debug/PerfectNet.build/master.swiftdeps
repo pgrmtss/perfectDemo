@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "a3b9aee441c6809df86c459a3015be68"
+build_time: [1557233631, 120553000]
+inputs:
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/Net.swift": [1557233595, 566686326]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetAddress.swift": [1557233595, 566846976]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetEvent.swift": [1557233595, 567122105]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetNamedPipe.swift": [1557233595, 567348099]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetTCP.swift": [1557233595, 567655876]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetTCPSSL.swift": [1557233595, 568059788]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetUDP.swift": [1557233595, 568318179]

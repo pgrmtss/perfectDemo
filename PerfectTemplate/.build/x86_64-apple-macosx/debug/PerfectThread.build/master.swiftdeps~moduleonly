@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "682f46d3788116fa8bb38545bcbcd086"
+build_time: [1557233602, 622825000]
+inputs:
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-Thread/Sources/PerfectThread/Promise.swift": [1557233597, 156658738]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-Thread/Sources/PerfectThread/ThreadQueue.swift": [1557233597, 156892866]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-Thread/Sources/PerfectThread/Threading.swift": [1557233597, 157141479]

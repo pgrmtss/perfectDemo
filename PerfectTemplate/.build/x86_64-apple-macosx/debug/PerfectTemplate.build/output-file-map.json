@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/master.swiftdeps"
+  },
+  "/Users/ming/Desktop/PerfectTemplate/Sources/PerfectTemplate/Api/TestApi.swift": {
+    "dependencies": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/Api/TestApi.d",
+    "object": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/Api/TestApi.swift.o",
+    "swiftmodule": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/Api/TestApi~partial.swiftmodule",
+    "swift-dependencies": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/Api/TestApi.swiftdeps"
+  },
+  "/Users/ming/Desktop/PerfectTemplate/Sources/PerfectTemplate/BasicRoutes.swift": {
+    "dependencies": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/BasicRoutes.d",
+    "object": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/BasicRoutes.swift.o",
+    "swiftmodule": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/BasicRoutes~partial.swiftmodule",
+    "swift-dependencies": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/BasicRoutes.swiftdeps"
+  },
+  "/Users/ming/Desktop/PerfectTemplate/Sources/PerfectTemplate/Util/DataBaseManager.swift": {
+    "dependencies": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/Util/DataBaseManager.d",
+    "object": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/Util/DataBaseManager.swift.o",
+    "swiftmodule": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/Util/DataBaseManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/Util/DataBaseManager.swiftdeps"
+  },
+  "/Users/ming/Desktop/PerfectTemplate/Sources/PerfectTemplate/Util/Util.swift": {
+    "dependencies": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/Util/Util.d",
+    "object": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/Util/Util.swift.o",
+    "swiftmodule": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/Util/Util~partial.swiftmodule",
+    "swift-dependencies": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/Util/Util.swiftdeps"
+  },
+  "/Users/ming/Desktop/PerfectTemplate/Sources/PerfectTemplate/main.swift": {
+    "dependencies": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/main.d",
+    "object": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/main.swift.o",
+    "swiftmodule": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/ming/Desktop/PerfectTemplate/.build/x86_64-apple-macosx/debug/PerfectTemplate.build/main.swiftdeps"
+  }
+}

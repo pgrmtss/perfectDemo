@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "7d32baec2a698f312c2dc1e72346e089"
+build_time: [1557233603, 376920000]
+inputs:
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/Bytes.swift": [1557233596, 906745555]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/Dir.swift": [1557233596, 906955206]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/File.swift": [1557233596, 907216498]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/JSONConvertible.swift": [1557233596, 907577228]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/Log.swift": [1557233596, 907837320]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/PerfectError.swift": [1557233596, 908045540]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/PerfectServer.swift": [1557233596, 908268169]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/SysProcess.swift": [1557233596, 908603686]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/PerfectLib/Sources/PerfectLib/Utilities.swift": [1557233596, 908932536]

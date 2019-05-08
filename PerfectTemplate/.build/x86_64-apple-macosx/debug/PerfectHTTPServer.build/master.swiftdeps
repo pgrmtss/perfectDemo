@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "25e5721239a8e355461f15250f1bdc91"
+build_time: [1557233636, 995937000]
+inputs:
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP11/HTTP11Request.swift": [1557233595, 795210063]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP11/HTTP11Response.swift": [1557233595, 795533089]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HPACK.swift": [1557233595, 796158544]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2.swift": [1557233595, 796592786]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Client.swift": [1557233595, 797039823]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Frame.swift": [1557233595, 797316665]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameReader.swift": [1557233595, 797533973]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameWriter.swift": [1557233595, 797767568]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2PrefaceValidator.swift": [1557233595, 797979528]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Request.swift": [1557233595, 798349386]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Response.swift": [1557233595, 798790564]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Session.swift": [1557233595, 799096116]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2SessionSettings.swift": [1557233595, 799424033]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPContentCompression.swift": [1557233595, 799666954]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPMultiplexer.swift": [1557233595, 799906043]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServer.swift": [1557233595, 800642203]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServerEx.swift": [1557233595, 801153928]
+  "/Users/ming/Desktop/PerfectTemplate/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServerExConfig.swift": [1557233595, 801481678]
